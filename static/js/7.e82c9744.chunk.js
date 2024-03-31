@@ -1,0 +1,2 @@
+(this.webpackJsonpPortfolio=this.webpackJsonpPortfolio||[]).push([[7],{56:function(e,t,a){"use strict";a.r(t);var i=a(40),o=a(23),s=(a(20),a(2),a(3));t.default=()=>Object(s.jsx)(i.a.div,{initial:{opacity:0},animate:{opacity:1},transition:{ease:"easeInOut",duration:.5,delay:.1},className:"container mx-auto flex flex-col-reverse lg:flex-row py-5 lg:py-10 lg:mt-10",children:Object(s.jsx)(o.a,{})})}}]);
+//# sourceMappingURL=7.e82c9744.chunk.js.map
