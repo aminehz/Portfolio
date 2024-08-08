@@ -4972,6 +4972,11 @@ fs.realpath@^1.0.0:
   resolved "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
 
+fsevents@^2.3.2, fsevents@~2.3.2:
+  version "2.3.3"
+  resolved "https://registry.npmjs.org/fsevents/-/fsevents-2.3.3.tgz"
+  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
+
 function-bind@^1.1.2:
   version "1.1.2"
   resolved "https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz"
@@ -7317,6 +7322,27 @@ popmotion@9.3.6:
     hey-listen "^1.0.8"
     style-value-types "4.1.4"
     tslib "^2.1.0"
+
+"Portfolio@file:":
+  version "0.1.0"
+  resolved "file:"
+  dependencies:
+    "@testing-library/jest-dom" "^5.16.5"
+    "@testing-library/react" "^13.4.0"
+    "@testing-library/user-event" "^14.4.3"
+    framer-motion "4.1.17"
+    gh-pages "^6.1.1"
+    Portfolio "file:"
+    postcss-cli "^10.1.0"
+    react "^18.1.0"
+    react-countup "^6.1.1"
+    react-dom "^18.1.0"
+    react-icons "^4.12.0"
+    react-router-dom "^6.0.2"
+    react-scripts "^5.0.1"
+    react-scroll "^1.8.4"
+    styled-components "^5.3.3"
+    web-vitals "^1.0.1"
 
 possible-typed-array-names@^1.0.0:
   version "1.0.0"

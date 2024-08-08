@@ -33,7 +33,7 @@ const ProjectSingle = ({ title, category, image,githubLink }) => {
             </span>
           </div>
           <span className="flex justify-center items-center pb-4 text-lg text-ternary-dark dark:text-ternary-light">
-          <a href={githubLink}><FaGithub /></a>
+          <a target='_blank' href={githubLink}><FaGithub /></a>
             </span>
         </div>
       
