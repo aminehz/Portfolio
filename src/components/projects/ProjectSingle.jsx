@@ -1,7 +1,9 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
+import { FaGithub } from "react-icons/fa";
 
-const ProjectSingle = ({ title, category, image }) => {
+
+const ProjectSingle = ({ title, category, image,githubLink }) => {
   return (
     <motion.div
       initial={{ opacity: 0 }}
@@ -30,6 +32,9 @@ const ProjectSingle = ({ title, category, image }) => {
               {category}
             </span>
           </div>
+          <span className="flex justify-center items-center pb-4 text-lg text-ternary-dark dark:text-ternary-light">
+          <a href={githubLink}><FaGithub /></a>
+            </span>
         </div>
       
     </motion.div>

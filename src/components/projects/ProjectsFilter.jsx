@@ -2,6 +2,7 @@ const selectOptions = [
 	'Machine Learning',
 	'Data Processing',
 	'Web Application',
+	'Mobile Application',
 	'Devops',
 ];
 

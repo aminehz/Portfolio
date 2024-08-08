@@ -3,7 +3,7 @@ import { FiArrowDownCircle } from 'react-icons/fi';
 import developerLight from '../../images/developer.svg';
 import developerDark from '../../images/developer-dark.svg';
 import { motion } from 'framer-motion';
-import amine_resume from "../../amine_resume.pdf";
+import amine_resume from "../../Harzallah Mohamed Amine.pdf";
 
 const AppBanner = () => {
     const [activeTheme] = useThemeSwitcher();
@@ -49,7 +49,7 @@ const AppBanner = () => {
                     }}
                     className="font-general-medium mt-4 text-lg md:text-xl lg:text-2xl xl:text-3xl text-center sm:text-left leading-normal text-gray-500 dark:text-gray-200"
                 >
-                    I am a student in the 3rd year of engineering, specializing in Computer Science with a focus on Artificial Intelligence (AI) and Big Data
+                    My name is Med Amine HARZALLAH , I am a freshly graduated Computer Science Engineer from the Polytechnic School of Sousse(EUR-ACE, CTI). Passionate about technological innovation, I have acquired advanced expertise in designing AI solutions and advanced web technologies.
                 </motion.p>
                 <motion.div
                     initial={{ opacity: 0 }}
