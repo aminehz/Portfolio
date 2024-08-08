@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkPortfolio=self.webpackChunkPortfolio||[]).push([[469],{8469:(e,a,t)=>{t.r(a),t.d(a,{default:()=>s});var l=t(1605),i=t(6071),o=(t(6089),t(5043),t(579));const s=()=>(0,o.jsx)(l.P.div,{initial:{opacity:0},animate:{opacity:1},transition:{ease:"easeInOut",duration:.5,delay:.1},className:"container mx-auto flex flex-col-reverse lg:flex-row py-5 lg:py-10 lg:mt-10",children:(0,o.jsx)(i.A,{})})}}]);
+//# sourceMappingURL=469.c75052ba.chunk.js.map
