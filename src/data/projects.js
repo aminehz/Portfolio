@@ -4,7 +4,7 @@ import WebImage2 from '../images/web-project-2.jpg';
 import MobileImage1 from '../images/mobile-project-1.jpg';
 import MobileImage2 from '../images/mobile-project-2.jpg';
 import UIImage1 from '../images/ui-project-1.jpg';
-import devops from "../images/devops.jpg";
+import devops from "../images/jenkinsapp.png";
 import dataProcessing from "../images/dataProcessing.png";
 import realtime from "../images/real time.png";
 import suspense from '../images/supersense.png';
@@ -60,7 +60,7 @@ export const projectsData = [
 		title: 'Devops',
 		category: 'Devops',
 		img: devops,
-		githubLink:""
+		githubLink:"https://github.com/aminehz/DEVOPS"
 	},
 	{
 		id: 7,
